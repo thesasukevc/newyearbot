@@ -1,0 +1,57 @@
+2026-11-11T12:08:17.329Z [INFO] ✅ Assets OK (4 templates × 3 languages, 3 fonts)
+2026-11-11T12:08:34.226Z [INFO] 🤖 @yangiyilsertifikatlaribot is running... Languages: uz, en, ru | admins: 1
+2026-11-11T12:21:52.652Z [INFO] ✅ Assets OK (4 templates × 3 languages, 3 fonts)
+2026-11-11T12:21:52.723Z [ERROR] ❌ Cannot connect to Telegram. Check BOT_TOKEN and the internet connection: EFATAL: Error: connect EACCES 149.154.166.110:443 - Local (undefined:undefined)
+2026-11-11T12:22:04.254Z [INFO] ✅ Assets OK (4 templates × 3 languages, 3 fonts)
+2026-11-11T12:22:04.295Z [ERROR] ❌ Cannot connect to Telegram. Check BOT_TOKEN and the internet connection: EFATAL: Error: connect EACCES 149.154.166.110:443 - Local (undefined:undefined)
+2026-11-11T12:23:11.666Z [ERROR] ❌ Cannot load node-telegram-bot-api. Export type: object | keys: UPDATE_TYPES,nextPagesWebhook,nextAppWebhook,nodeFrameworkWebhook,registerExpressWebhook,Api,Bot,compose,Context,encodeForm,EntityType,EntityBuilder,HTTP_STATUS_TOO_MANY_REQUESTS,HTTP_STATUS_CONFLICT,TelegramBotError,NetworkError,TimeoutError,ParseError,TelegramApiError,isAbortError,isTransientError,isPollConflict,ATTACH_PREFIX,InputFile,isInputFile,isFormPart,formPart,InlineKeyboardBuilder,ReplyKeyboardBuilder,longPoll,MediaGroupBuilder,PaidMediaGroupBuilder,StickerSetBuilder,StaticProfilePhotoBuilder,AnimatedProfilePhotoBuilder,PhotoStoryBuilder,VideoStoryBuilder,MemorySessionStorage,TokenBucket,RateLimiter,REPLY_NAMESPACE,expectReply,matchReply,forgetReply,expectCallback,matchCallback,forgetCallback,taggedReplies,RichMessageBuilder,richCaption,richTableCell,richListItem,RichTextBuilder,RichMessageButtonBuilder,asRichText,richMessageButton,S3SessionStorage,signAwsV4,SESSION_VERSION,SESSION_STATE_KEY,session,createSession,Transport,safeEqual,webhookCallback
+2026-11-11T12:23:11.667Z [ERROR]    Fix: npm install node-telegram-bot-api@0.66.0 --save-exact
+2026-11-11T12:23:16.502Z [ERROR] ❌ Cannot load node-telegram-bot-api. Export type: object | keys: UPDATE_TYPES,nextPagesWebhook,nextAppWebhook,nodeFrameworkWebhook,registerExpressWebhook,Api,Bot,compose,Context,encodeForm,EntityType,EntityBuilder,HTTP_STATUS_TOO_MANY_REQUESTS,HTTP_STATUS_CONFLICT,TelegramBotError,NetworkError,TimeoutError,ParseError,TelegramApiError,isAbortError,isTransientError,isPollConflict,ATTACH_PREFIX,InputFile,isInputFile,isFormPart,formPart,InlineKeyboardBuilder,ReplyKeyboardBuilder,longPoll,MediaGroupBuilder,PaidMediaGroupBuilder,StickerSetBuilder,StaticProfilePhotoBuilder,AnimatedProfilePhotoBuilder,PhotoStoryBuilder,VideoStoryBuilder,MemorySessionStorage,TokenBucket,RateLimiter,REPLY_NAMESPACE,expectReply,matchReply,forgetReply,expectCallback,matchCallback,forgetCallback,taggedReplies,RichMessageBuilder,richCaption,richTableCell,richListItem,RichTextBuilder,RichMessageButtonBuilder,asRichText,richMessageButton,S3SessionStorage,signAwsV4,SESSION_VERSION,SESSION_STATE_KEY,session,createSession,Transport,safeEqual,webhookCallback
+2026-11-11T12:23:16.503Z [ERROR]    Fix: npm install node-telegram-bot-api@0.66.0 --save-exact
+2026-11-11T12:26:21.070Z [INFO] ✅ Assets OK (4 templates × 3 languages, 3 fonts)
+2026-11-11T12:26:38.354Z [INFO] 🤖 @yangiyilsertifikatlaribot is running... Languages: uz, en, ru | admins: 1
+2026-11-11T12:30:36.956Z [ERROR] [polling 409] Error: Conflict: another bot instance is running with the same token
+    at TelegramBot.<anonymous> (D:\newyear-bot\index.js:550:32)
+    at TelegramBot.emit (D:\newyear-bot\node_modules\eventemitter3\index.js:181:35)
+    at TelegramBotPolling._error (D:\newyear-bot\node_modules\node-telegram-bot-api\src\telegramPolling.js:92:21)
+    at D:\newyear-bot\node_modules\node-telegram-bot-api\src\telegramPolling.js:121:23
+    at tryCatcher (D:\newyear-bot\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (D:\newyear-bot\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (D:\newyear-bot\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (D:\newyear-bot\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (D:\newyear-bot\node_modules\bluebird\js\release\promise.js:725:18)
+    at _drainQueueStep (D:\newyear-bot\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (D:\newyear-bot\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (D:\newyear-bot\node_modules\bluebird\js\release\async.js:102:5)
+    at Async.drainQueues [as _onImmediate] (D:\newyear-bot\node_modules\bluebird\js\release\async.js:15:14)
+    at process.processImmediate (node:internal/timers:574:21)
+2026-11-11T12:30:48.310Z [ERROR] [polling 409] Error: Conflict: another bot instance is running with the same token
+    at TelegramBot.<anonymous> (D:\newyear-bot\index.js:550:32)
+    at TelegramBot.emit (D:\newyear-bot\node_modules\eventemitter3\index.js:181:35)
+    at TelegramBotPolling._error (D:\newyear-bot\node_modules\node-telegram-bot-api\src\telegramPolling.js:92:21)
+    at D:\newyear-bot\node_modules\node-telegram-bot-api\src\telegramPolling.js:121:23
+    at tryCatcher (D:\newyear-bot\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (D:\newyear-bot\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (D:\newyear-bot\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (D:\newyear-bot\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (D:\newyear-bot\node_modules\bluebird\js\release\promise.js:725:18)
+    at _drainQueueStep (D:\newyear-bot\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (D:\newyear-bot\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (D:\newyear-bot\node_modules\bluebird\js\release\async.js:102:5)
+    at Async.drainQueues [as _onImmediate] (D:\newyear-bot\node_modules\bluebird\js\release\async.js:15:14)
+    at process.processImmediate (node:internal/timers:574:21)
+2026-11-11T12:30:55.773Z [ERROR] [polling 409] Error: Conflict: another bot instance is running with the same token
+    at TelegramBot.<anonymous> (D:\newyear-bot\index.js:550:32)
+    at TelegramBot.emit (D:\newyear-bot\node_modules\eventemitter3\index.js:181:35)
+    at TelegramBotPolling._error (D:\newyear-bot\node_modules\node-telegram-bot-api\src\telegramPolling.js:92:21)
+    at D:\newyear-bot\node_modules\node-telegram-bot-api\src\telegramPolling.js:121:23
+    at tryCatcher (D:\newyear-bot\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (D:\newyear-bot\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (D:\newyear-bot\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (D:\newyear-bot\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (D:\newyear-bot\node_modules\bluebird\js\release\promise.js:725:18)
+    at _drainQueueStep (D:\newyear-bot\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (D:\newyear-bot\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (D:\newyear-bot\node_modules\bluebird\js\release\async.js:102:5)
+    at Async.drainQueues [as _onImmediate] (D:\newyear-bot\node_modules\bluebird\js\release\async.js:15:14)
+    at process.processImmediate (node:internal/timers:574:21)
